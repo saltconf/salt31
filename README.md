@@ -1,2 +1,2 @@
-# salt30
-Website for SALT30 at Cornell
+# salt31
+Website for SALT31 (virtually) at Brown
