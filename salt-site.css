@@ -1,4 +1,4 @@
-/* Cornell's colors are #B31B1B (red), #222222 (dark grey), and #F7F7F7 (light grey) with accent colors #006699 (blue) or #4B7B2B (green) (https://brand.cornell.edu/design-center/colors/)
+/* Brown's colors are #ED1C24 (red), #222222 (brown), and #FFC72C(gold) with accent color #98A4AE (gray (silver)) (https://www.brown.edu/academics/biomed/offices-and-services/communications/colors)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 @font-face {
@@ -32,13 +32,13 @@ body {
 
 a {
     font-weight: 400;
-    color: #006699;
+    color: ##98A4AE;
     text-decoration: none;
     border-bottom: 1px solid;
 }
 
 a:hover {
-    color: #B31B1B;
+    color: #ED1C24;
 }
 
 table.reg tr {
@@ -46,7 +46,7 @@ table.reg tr {
 }
 
 table.reg th {
-    color: #B31B1B;
+    color: #ED1C24;
 }
 
 table.reg {
@@ -56,12 +56,12 @@ table.reg {
 
 hr {
     border-style: solid;
-    border-color: #B31B1B;
+    border-color: #ED1C24;
     border-width: 0.5px;
 }
 
 .alert {
-    color: #B31B1B;
+    color: #ED1C24;
 }
 
 img.resize {
@@ -160,7 +160,7 @@ img.resize {
 }
 
 #nav a.current {
-    color: #006699;
+    color: ##98A4AE;
 }
 
 #lsa-logo {
@@ -172,7 +172,7 @@ img.resize {
 	display: inline-block;
   padding: 0.75em 1em;
 	border-radius: 5pt;
-  background-color: #006699;
+  background-color: ##98A4AE;
 	color: #fff;
 	font-weight: 700;
 }
@@ -411,22 +411,22 @@ tr.break, tr.breakShort, tr.lunch, tr.party {
 
 tr.break td, tr.lunch td, tr.party td, tr.breakShort {
     border-top: 10px solid white;
-    /* border-top: 10px solid #B31B1B; */
-    /* border-bottom: 10px solid #B31B1B; */
+    /* border-top: 10px solid #ED1C24; */
+    /* border-bottom: 10px solid #ED1C24; */
 }
 tr.talk, tr.talkChairinfo {
     /* background-color: #C7D1C5; */
-    background-color: #0066992e;
+    background-color: ##98A4AE2e;
 }
 
 /* tr.talk td:first-child, tr.talkChairinfo td:first-child { */
-/*     border-left: 10px solid #B31B1B; */
+/*     border-left: 10px solid #ED1C24; */
 /* } */
 /* tr.talk td:last-child, tr.talkChairinfo td:last-child { */
-/*     border-right: 10px solid #B31B1B; */
+/*     border-right: 10px solid #ED1C24; */
 /* } */
 /* tr.talkChairinfo td { */
-/*     border-top: 10px solid #B31B1B; */
+/*     border-top: 10px solid #ED1C24; */
 /* } */
 
 tr.postertalk, tr.poster {
@@ -443,7 +443,7 @@ tr.invited {
 
 tr.invited, tr.invitedChairinfo {
     /* background-color: #B6B1A9; */
-    background-color: #B31B1B85;
+    background-color: #ED1C2485;
 }
 
 tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
@@ -473,8 +473,8 @@ tr.posterInfoLightTwo td, tr.posterInfoLightOne td {
 #friday, #saturday, #sunday, #alts, #monday, #tuesday, #wednesday, #thursday, #poster1, #poster2 {
     margin-top: 40px;
     padding-top: 20px;
-    /* border-bottom: 3px solid #B31B1B; */
-    border-top: 3px solid #B31B1B;
+    /* border-bottom: 3px solid #ED1C24; */
+    border-top: 3px solid #ED1C24;
 }
 
 .program a {
@@ -485,7 +485,7 @@ tr.posterInfoLightTwo td, tr.posterInfoLightOne td {
 }
 
 span.materials a {
-    color: #006699;
+    color: ##98A4AE;
 }
 /* .program a:focus, .program a:hover {color:#820000; background-image:none} */
 
