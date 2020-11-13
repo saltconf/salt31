@@ -123,13 +123,13 @@ img.resize {
 #speakers li:nth-child(even):before {
     margin-right: 0.5em;
     /* content: "\1F3C4\200D\2640\FE0F"; U+1F3DE?*/
-    content: "\1F34E"
+    content: "\1F43B"
 }
 
 #speakers li:nth-child(odd):before {
     margin-right: 0.5em;
     /* content: "\1F3C4\200D\2642\FE0F"; 1F308? 1F48B? */
-    content: "\1F34E";
+    content: "\1F43B";
 }
 
 /* Navigation menu
