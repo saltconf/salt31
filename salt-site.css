@@ -399,6 +399,7 @@ tr.break, tr.talk {
 
 tr.lunch {
     height: 70px;
+	font-weight: bold;
 }
 
 tr.party {
@@ -416,7 +417,6 @@ tr.break td, tr.lunch td, tr.party td, tr.breakShort {
 }
 tr.talk, tr.talkChairinfo {
     /* background-color: #C7D1C5; */
-    background-color: ##98A4AE2e;
 }
 
 /* tr.talk td:first-child, tr.talkChairinfo td:first-child { */
@@ -434,7 +434,6 @@ tr.postertalk, tr.poster {
 }
 
 tr.posterChairinfo, tr.postertalk, tr.poster {
-    background-color: #C9C9C9;
 }
 
 tr.invited {
@@ -443,7 +442,6 @@ tr.invited {
 
 tr.invited, tr.invitedChairinfo {
     /* background-color: #B6B1A9; */
-    background-color: #ED1C2485;
 }
 
 tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
@@ -456,7 +454,6 @@ tr.talkChairinfo td, tr.invitedChairinfo td, tr.posterChairinfo td {
 }
 
 tr.posterInfoLightTwo, tr.posterInfoLightOne {
-    background-color: #C9C9C9;
     /* background-color: #8FBAC8; */
     /* border-spacing: 0px; */
     /* display: none; */
