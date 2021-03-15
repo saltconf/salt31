@@ -390,7 +390,7 @@ td.title {
 }
 
 tr.admin {
-    background-color: #e1e8f0;
+    background-color: #DCE1E3;
 }
 
 tr.break, tr.talk {
@@ -407,7 +407,7 @@ tr.party {
 }
 
 tr.break, tr.breakShort, tr.lunch, tr.party {
-    background-color: #e1e8f0;
+   /* background-color: #e1e8f0;*/
 }
 
 tr.break td, tr.lunch td, tr.party td, tr.breakShort {
@@ -416,7 +416,7 @@ tr.break td, tr.lunch td, tr.party td, tr.breakShort {
     /* border-bottom: 10px solid #ED1C24; */
 }
 tr.talk, tr.talkChairinfo {
-    background-color: #99ccff;
+    background-color: #0066992e;
 }
 
 /* tr.talk td:first-child, tr.talkChairinfo td:first-child { */
@@ -430,7 +430,7 @@ tr.talk, tr.talkChairinfo {
 /* } */
 
 tr.postertalk, tr.poster {
-	background-color: #CAE4DB;
+	background-color: #0066992e;
     height: 50px;
 }
 
@@ -442,7 +442,7 @@ tr.invited {
 }
 
 tr.invited, tr.invitedChairinfo {
-    background-color: #6ed3cf;
+    background-color: #004E7C;
 }
 
 tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
@@ -472,11 +472,11 @@ tr.posterInfoLightTwo td, tr.posterInfoLightOne td {
     margin-top: 40px;
     padding-top: 20px;
     /* border-bottom: 3px solid #ED1C24; */
-    border-top: 3px solid #ED1C24;
+    border-top: 4px solid #ED1C24;
 }
 
 .program a {
-    color: #000;
+    /* color: #000; */
     /* border-bottom-style: dotted; */
     /* font-weight: 500; */
     line-height: 1.5em;
