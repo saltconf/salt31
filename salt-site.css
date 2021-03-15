@@ -443,6 +443,7 @@ tr.invited {
 
 tr.invited, tr.invitedChairinfo {
     background-color: #004E7C;
+	color: white;
 }
 
 tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
