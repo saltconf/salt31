@@ -390,7 +390,7 @@ td.title {
 }
 
 tr.admin {
-    background-color: #FAF6D0;
+    background-color: #ffffcc;
 }
 
 tr.break, tr.talk {
@@ -407,7 +407,7 @@ tr.party {
 }
 
 tr.break, tr.breakShort, tr.lunch, tr.party {
-    background-color: #FAF6D0;
+    background-color: #ffffcc;
 }
 
 tr.break td, tr.lunch td, tr.party td, tr.breakShort {
@@ -416,7 +416,7 @@ tr.break td, tr.lunch td, tr.party td, tr.breakShort {
     /* border-bottom: 10px solid #ED1C24; */
 }
 tr.talk, tr.talkChairinfo {
-    background-color: #729B93;
+    background-color: #99ccff;
 }
 
 /* tr.talk td:first-child, tr.talkChairinfo td:first-child { */
@@ -430,7 +430,7 @@ tr.talk, tr.talkChairinfo {
 /* } */
 
 tr.postertalk, tr.poster {
-	background-color: #729B93;
+	background-color: #ccffff;
     height: 50px;
 }
 
