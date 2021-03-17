@@ -172,7 +172,7 @@ img.resize {
 	display: inline-block;
   padding: 0.75em 1em;
 	border-radius: 5pt;
-  background-color: ##98A4AE;
+  background-color: #004E7C;
 	color: #fff;
 	font-weight: 700;
 }
@@ -390,7 +390,7 @@ td.title {
 }
 
 tr.admin {
-    /* background-color: #C6C6C6; */
+    background-color: #DCE1E3;
 }
 
 tr.break, tr.talk {
@@ -399,6 +399,7 @@ tr.break, tr.talk {
 
 tr.lunch {
     height: 70px;
+	font-weight: bold;
 }
 
 tr.party {
@@ -406,7 +407,7 @@ tr.party {
 }
 
 tr.break, tr.breakShort, tr.lunch, tr.party {
-    /* background-color: #B2B2B2; */
+   /* background-color: #e1e8f0;*/
 }
 
 tr.break td, tr.lunch td, tr.party td, tr.breakShort {
@@ -415,8 +416,7 @@ tr.break td, tr.lunch td, tr.party td, tr.breakShort {
     /* border-bottom: 10px solid #ED1C24; */
 }
 tr.talk, tr.talkChairinfo {
-    /* background-color: #C7D1C5; */
-    background-color: ##98A4AE2e;
+    background-color: #0066992e;
 }
 
 /* tr.talk td:first-child, tr.talkChairinfo td:first-child { */
@@ -430,11 +430,11 @@ tr.talk, tr.talkChairinfo {
 /* } */
 
 tr.postertalk, tr.poster {
+	background-color: #0066992e;
     height: 50px;
 }
 
 tr.posterChairinfo, tr.postertalk, tr.poster {
-    background-color: #C9C9C9;
 }
 
 tr.invited {
@@ -442,8 +442,8 @@ tr.invited {
 }
 
 tr.invited, tr.invitedChairinfo {
-    /* background-color: #B6B1A9; */
-    background-color: #ED1C2485;
+    background-color: #004E7C;
+	color: white;
 }
 
 tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
@@ -456,8 +456,7 @@ tr.talkChairinfo td, tr.invitedChairinfo td, tr.posterChairinfo td {
 }
 
 tr.posterInfoLightTwo, tr.posterInfoLightOne {
-    background-color: #C9C9C9;
-    /* background-color: #8FBAC8; */
+    /* background-color: #A8C7BB; */
     /* border-spacing: 0px; */
     /* display: none; */
 }
@@ -474,11 +473,11 @@ tr.posterInfoLightTwo td, tr.posterInfoLightOne td {
     margin-top: 40px;
     padding-top: 20px;
     /* border-bottom: 3px solid #ED1C24; */
-    border-top: 3px solid #ED1C24;
+    border-top: 4px solid #ED1C24;
 }
 
 .program a {
-    color: #000;
+    /* color: #000; */
     /* border-bottom-style: dotted; */
     /* font-weight: 500; */
     line-height: 1.5em;
